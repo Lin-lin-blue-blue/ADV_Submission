@@ -101,7 +101,3 @@ print(int(student_age) + 5)  # 25; without int() this raises a TypeError
 ```
 
 ---
-
-## Takeaway
-
-Good code is correct, readable, organized, reusable, and easy to maintain and debug. Making the program run is only the first step.
