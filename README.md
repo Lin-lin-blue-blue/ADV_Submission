@@ -1,2 +1,2 @@
-# Tp1
-This project contains the implementation and results of TP1.
+# Tp
+This project contains the implementation and results of TP.
